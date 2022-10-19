@@ -1,0 +1,9 @@
+D:\Downloads\SharpJunk-main\SharpJunk-main\SharpJunk\obj\Release\net472\SharpJunk.csproj.AssemblyReference.cache
+D:\Downloads\SharpJunk-main\SharpJunk-main\SharpJunk\obj\Release\net472\SharpJunk.exe.config
+D:\Downloads\SharpJunk-main\SharpJunk-main\SharpJunk\obj\Release\net472\SharpJunk.Forms.Main.resources
+D:\Downloads\SharpJunk-main\SharpJunk-main\SharpJunk\obj\Release\net472\SharpJunk.Properties.Resources.resources
+D:\Downloads\SharpJunk-main\SharpJunk-main\SharpJunk\obj\Release\net472\SharpJunk.csproj.GenerateResource.cache
+D:\Downloads\SharpJunk-main\SharpJunk-main\SharpJunk\obj\Release\net472\SharpJunk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\SharpJunk-main\SharpJunk-main\SharpJunk\obj\Release\net472\SharpJunk.AssemblyInfoInputs.cache
+D:\Downloads\SharpJunk-main\SharpJunk-main\SharpJunk\obj\Release\net472\SharpJunk.AssemblyInfo.cs
+D:\Downloads\SharpJunk-main\SharpJunk-main\SharpJunk\obj\Release\net472\SharpJunk.csproj.CoreCompileInputs.cache
